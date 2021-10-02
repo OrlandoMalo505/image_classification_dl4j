@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25d9f181-953a-4fa5-a868-8428615dc40e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/quickstart/modelling/ModelLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/quickstart/modelling/ModelTrain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/advanced/charmodelling/CharacterIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/advanced/charmodelling/GenerateTxtModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/advanced/transferlearning/vgg16/FeaturizedPreSave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/advanced/transferlearning/vgg16/FitFromFeaturized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/advanced/transferlearning/vgg16/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/advanced/transferlearning/vgg16/dataHelpers/FlowerDataSetIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/advanced/transferlearning/vgg16/dataHelpers/FlowerDataSetIteratorFeaturized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/advanced/w2vsentiment/DataSetsBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/advanced/w2vsentiment/ImdbReviewClassificationRNN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/advanced/w2vsentiment/SentimentExampleIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/quickstart/GradientSharingVGG16TinyImageNet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/quickstart/GradientsSharingLeNetMNIST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/java/org/deeplearning4j/examples/multigpu/quickstart/MultiGPULeNetMNIST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda-specific-examples/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/customizingdl4j/activationfunctions/CustomActivationDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/customizingdl4j/activationfunctions/CustomActivationUsageEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/customizingdl4j/layers/CustomLayerUsageEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/customizingdl4j/layers/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/customizingdl4j/layers/layer/CustomLayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/customizingdl4j/layers/layer/CustomLayerImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/customizingdl4j/lossfunctions/CustomLossDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/customizingdl4j/lossfunctions/CustomLossUsageEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/externalerrors/MultiLayerNetworkExternalErrors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/inference/ParallelInferenceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/metadata/CSVExampleEvaluationMetaData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/transferlearning/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/transferlearning/editfrombottleneck/EditAtBottleneckOthersFrozen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/transferlearning/editlastlayer/EditLastLayerOthersFrozen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/transferlearning/editlastlayer/presave/FeaturizedPreSave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/transferlearning/editlastlayer/presave/FitFromFeaturized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/transferlearning/finetuneonly/FineTuneFromBlockFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/transferlearning/iterators/FlowerDataSetIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/features/transferlearning/iterators/FlowerDataSetIteratorFeaturized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/alphagozero/AlphaGoZeroTrainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/alphagozero/dualresidual/DL4JAlphaGoZeroBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/alphagozero/dualresidual/DualResnetModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/captcharecognition/MultiDigitNumberRecognition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/captcharecognition/dataclasses/MulRecordDataLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/captcharecognition/dataclasses/MultiRecordDataSetIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/charmodelling/generatetext/GenerateTxtCharCompGraphModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/charmodelling/generatetext/GenerateTxtModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/charmodelling/utils/CharacterIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/densenet/DenseNetMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/densenet/imageUtils/BlurTransform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/densenet/imageUtils/NoiseTransform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/densenet/model/DenseNetBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/densenet/model/DenseNetModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/embeddingsfromcorpus/paragraphvectors/ParagraphVectorsClassifierExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/embeddingsfromcorpus/paragraphvectors/ParagraphVectorsInferenceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/embeddingsfromcorpus/paragraphvectors/ParagraphVectorsTextExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/embeddingsfromcorpus/paragraphvectors/tools/LabelSeeker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/embeddingsfromcorpus/paragraphvectors/tools/MeansBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/embeddingsfromcorpus/sequencevectors/SequenceVectorsTextExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/embeddingsfromcorpus/word2vec/Word2VecRawTextExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/embeddingsfromcorpus/word2vec/Word2VecUptrainingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/objectdetection/TinyYoloHouseNumberDetection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/seq2seq/AdditionModelWithSeq2Seq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/seq2seq/CustomSequenceIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/seq2seq/Seq2SeqPredicter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/sequenceanomalydetection/AnomalyDataSetIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/sequenceanomalydetection/AnomalyDataSetReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/sequenceanomalydetection/SequenceAnomalyDetection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/sequenceprediction/BaseDataSetReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/sequenceprediction/LotteryCharacterSequenceDataSetReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/sequenceprediction/LotteryCombinationDataSetReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/sequenceprediction/LotteryDataSetIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/sequenceprediction/TrainLotteryModelSeqPrediction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/styletransfer/NeuralStyleTransfer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/textclassification/customcorpusword2vec/NewsIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/textclassification/customcorpusword2vec/PrepareWordVector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/textclassification/customcorpusword2vec/TestNews.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/textclassification/customcorpusword2vec/TrainNews.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/textclassification/pretrainedword2vec/ImdbReviewClassificationCNN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/textclassification/pretrainedword2vec/ImdbReviewClassificationRNN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/advanced/modelling/textclassification/pretrainedword2vec/SentimentExampleIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/classimbalance/WeightedLossFunctionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/earlystopping/EarlyStoppingMNIST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/modelsavingloading/SaveLoadComputationGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/modelsavingloading/SaveLoadMultiLayerNetwork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/presavingdatasets/LoadPreSavedLenetMnistExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/presavingdatasets/PreSaveFirst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/tsne/TSNEStandardExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/userinterface/BasicUIExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/userinterface/RemoteUIExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/userinterface/UIStorageExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/userinterface/UIStorageExample_Java7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/features/userinterface/util/UIExampleUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/convolution/CIFARClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/convolution/CenterLossLeNetMNIST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/convolution/LeNetMNIST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/convolution/LeNetMNISTReLu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/classification/IrisClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/classification/LinearDataClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/classification/MNISTDoubleLayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/classification/MNISTSingleLayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/classification/ModelXOR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/classification/MoonClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/classification/SaturnClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/regression/CSVDataModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/regression/ImageDrawer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/regression/MathFunctionsModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/regression/SumModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/regression/mathfunctions/MathFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/regression/mathfunctions/SawtoothMathFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/regression/mathfunctions/SinMathFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/regression/mathfunctions/SinXDivXMathFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/regression/mathfunctions/SquareWaveMathFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/regression/mathfunctions/TriangleWaveMathFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/feedforward/unsupervised/MNISTAutoencoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/recurrent/MemorizeSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/recurrent/RNNEmbedding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/recurrent/UCISequenceClassification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/recurrent/VideoFrameClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/variationalautoencoder/VaeMNIST2dPlots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/quickstart/modeling/variationalautoencoder/VaeMNISTAnomaly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/utils/DataUtilities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/utils/DownloaderUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/utils/PlotUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/utils/VAEPlotUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/detectgender/GenderRecordReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/detectgender/PredictGenderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/detectgender/PredictGenderTrain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/detectgender/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/encoderdecoder/CorpusIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/encoderdecoder/CorpusProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/encoderdecoder/EncoderDecoderLSTM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/encoderdecoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/encoderdecoder/get_data.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/encoderdecoder/gpu_monitor.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/melodl4j/MelodyModelingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/melodl4j/MelodyStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/melodl4j/MidiMelodyExtractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/melodl4j/Note.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/melodl4j/PlayMelodyStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/melodl4j/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/melodl4j/README.md.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/mixturedensitynetwork/GaussianMixtureIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/mixturedensitynetwork/MixtureDensityNetwork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/advanced/modelling/mixturedensitynetwork/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/quickstart/features/knn/NearestNeighbor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/deeplearning4j/examples/wip/quickstart/modelling/AnimalClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/deeplearning4j/quickstartexamples/feedforward/mnist/MLPMnistSingleLayerExample.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/deeplearning4j/quickstartexamples/feedforward/mnist/MLPMnistTwoLayerExample.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Program Files/apache-maven-3.8.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vh3QzqwlNkThJMxLySPflLBwJl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dynamic.classpath" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/diplomaorlando" />
+    <property name="settings.editor.selected.configurable" value="trusted.hosts" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.deeplearning4j.examples.wip.quickstart.modelling.Contrroller" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.deep">
+    <configuration name="deep" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.deeplearning4j.examples.wip.quickstart.modelling.ModelLoad" />
+      <module name="dl4j-examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.deeplearning4j.examples.quickstart.modeling.feedforward.classification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dl4j-examples" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.deep" />
+      <item itemvalue="Maven.dl4j-examples" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.deep" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d9f181-953a-4fa5-a868-8428615dc40e" name="Default Changelist" comment="" />
+      <created>1627000481397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627000481397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

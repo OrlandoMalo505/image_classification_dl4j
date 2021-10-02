@@ -1,0 +1,37 @@
+Copyright (c) 2020 Konduit K.K
+Copyright 2015-2019 Skymind Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+##########################
+
+-- Misc files --
+*README.md
+*FAQ.md
+*readme.md
+CONTRIBUTORS.md
+.github/ISSUE_TEMPLATE.md
+.github/PULL_REQUEST_TEMPLATE.md
+org/deeplearning4j/examples/misc/customlayers/CustomLayerExampleReadme.md
+nd4j-ndarray-examples/src/main/resources/numpy_cheatsheet/file.txt
+nd4j-ndarray-examples/src/main/resources/numpy_cheatsheet/saveFile.txt
+nd4j-ndarray-examples/src/main/resources/numpyz.npz
+pydatavec-examples/basic_example.csv
+pydatavec-examples/reduction_example.csv
+
+Copyright (c) 2020 Konduit K.K
+Copyright (c) 2015-2019 Skymind, Inc.
+Apache 2.0 License
+
+##########################
